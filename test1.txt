@@ -1,0 +1,19 @@
+0
+0 0 meidiao/my-github-demo
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+first github demo
+ 2 commits
+ 1 branch
+ 0 releases
+ 1 contributor
+ @meidiao
+meidiao add start.txt
+Latest commit 6437f09  14 days ago
+Type	Name	Latest commit message	Commit time
+README.md	Initial commit	17 days ago
+start.txt	add start.txt	14 days ago
+ README.md
+my-github-demo
+first github demo
+
+© 2019 GitHub, Inc.
