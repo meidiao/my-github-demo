@@ -22,4 +22,9 @@ first github demo
 first time modify myfeature branch
 add changes before rebase conflict
 change after solve rebase conflict
+<<<<<<< HEAD
 remote: edit from github
+=======
+
+change to demo rebase from github
+>>>>>>> local update test1.txt
