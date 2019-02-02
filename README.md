@@ -24,3 +24,5 @@ diff change to README file\
 
 for rebase sample
 more change from myfeature branch
+
+all rights reserverd
