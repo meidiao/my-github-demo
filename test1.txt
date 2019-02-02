@@ -19,15 +19,5 @@ first github demo
 © 2019 GitHub, Inc.
 
 2nd change is here. laugh,laugh, laug
-aljtoajfals\
-afka;sjfoasif
-afjaotjueotjhatfjaljowufj
-fa;skdfpweiikv;sak
 
-add page title
-change title for title-change branch
-
-h
-add copy right notice
-this change is for simple-changes branch
-create conflict in master branch
+first time modify myfeature branch
