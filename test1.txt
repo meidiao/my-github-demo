@@ -16,9 +16,10 @@ start.txt	add start.txt	14 days ago
 my-github-demo
 first github demo
 
-© 2019 GitHub, Inc.
+Â© 2019 GitHub, Inc.
 
 2nd change is here. laugh,laugh, laug
 first time modify myfeature branch
 add changes before rebase conflict
 change after solve rebase conflict
+remote: edit from github
