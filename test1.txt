@@ -28,6 +28,5 @@ fa;skdfpweiikv;sak
 add page title
 change title for title-change branch
 
-h
-add copy right notice
-this change is for simple-changes branch
+
+create conflict in master branch
