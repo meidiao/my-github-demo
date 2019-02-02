@@ -21,3 +21,4 @@ first github demo
 2nd change is here. laugh,laugh, laug
 
 first time modify myfeature branch
+add changes before rebase conflict
