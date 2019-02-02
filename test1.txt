@@ -19,6 +19,7 @@ first github demo
 © 2019 GitHub, Inc.
 
 2nd change is here. laugh,laugh, laug
-
+add confil
 first time modify myfeature branch
 add changes before rebase conflict
+just add conlict
